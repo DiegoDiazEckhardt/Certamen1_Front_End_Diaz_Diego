@@ -3,4 +3,8 @@
 @import '@fontsource/roboto/500.css';
 @import '@fontsource/roboto/700.css';
 @import 'bootstrap\dist\css\bootstrap-grid.min.css';
-@import 'bootstrap\dist\css\bootstrap-utilities.min.css'
+@import 'bootstrap\dist\css\bootstrap-utilities.min.css';
+
+body > #root{
+    background:white;
+}
